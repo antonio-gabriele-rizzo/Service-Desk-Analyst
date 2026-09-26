@@ -119,14 +119,7 @@ Service-Desk-Analyst
     ├── 01-ServiceNow-Developer-Instance-Setup-and-Configuration.md
     │
     └── screenshots
-        ├── servicenow-developer-onboarding-start.png
-        ├── servicenow-developer-home-before-instance-request.png
-        ├── servicenow-pdi-release-selection-brazil.png
-        ├── servicenow-pdi-instance-ready.png
-        ├── servicenow-pdi-instance-home.png
-        ├── servicenow-application-navigator-incident-filter.png
-        ├── servicenow-incident-list.png
-        └── servicenow-new-incident-form.png
+       
 ```
 
 Each future chapter will follow the same structure, with its own Markdown documentation and `screenshots` directory.
