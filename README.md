@@ -1,4 +1,4 @@
-# Service Desk Analyst – Practical IT Service Desk Portfolio
+# Service Desk Analyst Portfolio
 
 ## Project Overview
 
