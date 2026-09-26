@@ -259,21 +259,6 @@ Incident
         └── New Incident form
 ```
 
----
-
-## Verification
-
-Chapter 1 is complete when the following can be confirmed:
-
-- ServiceNow Developer account is active.
-- Personal Developer Instance has been created.
-- The instance can be opened.
-- The Application Navigator can be used.
-- Incident can be located through the navigator.
-- The Incident list can be opened.
-- The New Incident form can be opened.
-
-At this point the environment is ready for practical Service Desk simulation.
 
 ---
 
