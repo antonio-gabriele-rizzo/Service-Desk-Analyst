@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="logo/techlab365-logo.png" alt="TechLab365" width="300">
+  <img src="logo/techlab365-logo.png" alt="TechLab365" width="250">
 </p>
 
 <p align="center">
   <img src="logo/service-desk-analyst-title.png" alt="Service Desk Analyst Portfolio">
 </p>
 
-## Project Overview
+---
+
+# Project Overview
 
 This repository documents my hands-on Service Desk Analyst and IT Support laboratory, developed to build practical experience with ServiceNow, incident management and the technical environments commonly used to investigate and resolve user issues.
 
