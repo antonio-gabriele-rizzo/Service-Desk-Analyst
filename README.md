@@ -119,7 +119,8 @@ Service-Desk-Analyst
     ├── 01-ServiceNow-Developer-Instance-Setup-and-Configuration.md
     │
     └── screenshots
-       ```
+
+```
 
 Each future chapter will follow the same structure, with its own Markdown documentation and `screenshots` directory.
 
