@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="logo/service-desk-analyst-title.png" alt="Service Desk Analyst Portfolio" width="550">
+  <img src="logo/service-desk-analyst-title.png" alt="Service Desk Analyst Portfolio" width="530">
 </p>
 
 ---
