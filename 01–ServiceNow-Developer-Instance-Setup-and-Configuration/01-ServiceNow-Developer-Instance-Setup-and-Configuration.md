@@ -30,7 +30,7 @@ By completing this chapter, the lab environment will:
 
 The ServiceNow Developer site was opened and the initial onboarding process was started.
 
-![ServiceNow Developer onboarding](servicenow-developer-onboarding-start.png)
+![ServiceNow Developer onboarding](screenshots/servicenow-developer-onboarding-start.png)
 
 During the onboarding questionnaire, the option **Yes – I need a developer oriented IDE** was selected because the account is being used for a practical technical lab environment.
 
@@ -44,7 +44,7 @@ The onboarding process was then completed.
 
 After onboarding, the ServiceNow Developer home page was displayed.
 
-![ServiceNow Developer home before instance request](servicenow-developer-home-before-instance-request.png)
+![ServiceNow Developer home before instance request](screenshots/servicenow-developer-home-before-instance-request.png)
 
 The page provides access to the personal developer instance and learning resources.
 
@@ -60,7 +60,7 @@ The **Request your instance** option was selected.
 
 ServiceNow then displayed the available instance releases.
 
-![ServiceNow Personal Developer Instance release selection](servicenow-pdi-release-selection-brazil.png)
+![ServiceNow Personal Developer Instance release selection](screenshots/servicenow-pdi-release-selection-brazil.png)
 
 The **Brazil** release was selected.
 
@@ -76,7 +76,7 @@ The temporary configuration/progress screen was not retained as portfolio eviden
 
 After the setup completed, ServiceNow confirmed that the instance was ready.
 
-![ServiceNow Personal Developer Instance ready](servicenow-pdi-instance-ready.png)
+![ServiceNow Personal Developer Instance ready](screenshots/servicenow-pdi-instance-ready.png)
 
 The **Start building** option was used to enter the new instance.
 
@@ -86,7 +86,7 @@ The **Start building** option was used to enter the new instance.
 
 The ServiceNow instance home page was then displayed.
 
-![ServiceNow Personal Developer Instance home](servicenow-pdi-instance-home.png)
+![ServiceNow Personal Developer Instance home](screenshots/servicenow-pdi-instance-home.png)
 
 This is the working ServiceNow environment that will be used for the Service Desk practical exercises.
 
@@ -102,7 +102,7 @@ The filter was used to search for:
 
 `incident`
 
-![ServiceNow Application Navigator Incident filter](servicenow-application-navigator-incident-filter.png)
+![ServiceNow Application Navigator Incident filter](screenshots/servicenow-application-navigator-incident-filter.png)
 
 The search returned the Incident-related applications, including the Service Desk Incident options.
 
@@ -114,7 +114,7 @@ The **Incidents** option under Service Desk was selected.
 
 The Incident list was opened.
 
-![ServiceNow Incident list](servicenow-incident-list.png)
+![ServiceNow Incident list](screenshots/servicenow-incident-list.png)
 
 The Incident list provides the central view of existing incidents.
 
@@ -142,7 +142,7 @@ This is the type of working view a Service Desk Analyst uses to locate, review a
 
 The **New** option was selected to open the Incident creation form.
 
-![ServiceNow New Incident form](servicenow-new-incident-form.png)
+![ServiceNow New Incident form](screenshots/servicenow-new-incident-form.png)
 
 The form provides the fields required to create and manage an incident.
 
