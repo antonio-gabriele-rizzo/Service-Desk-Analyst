@@ -236,29 +236,6 @@ Internal technical notes used by support staff to document investigation and act
 
 The exact information entered into these fields will depend on the incident reported by the user. That practical decision-making process is deliberately left for Chapter 2.
 
----
-
-At this stage, the environment had been tested through the normal ServiceNow navigation path rather than simply confirming that the instance opened.
-
-The verification sequence was:
-
-```text
-ServiceNow Developer
-        │
-        ▼
-Personal Developer Instance
-        │
-        ▼
-Application Navigator
-        │
-        ▼
-Incident
-        │
-        ├── Incident list
-        │
-        └── New Incident form
-```
-
 
 ---
 
