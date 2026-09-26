@@ -2,7 +2,7 @@
 
 A hands-on portfolio project designed to demonstrate practical **Service Desk Analyst / IT Support** workflows using ServiceNow and supporting TechLab365 environments.
 
-The project is deliberately built as a growing practical lab rather than a fixed course. New realistic incidents can be added indefinitely as additional chapters.
+This is an ongoing practical project. New chapters and realistic Service Desk scenarios will be added regularly as the project develops, new experience is gained, and additional Service Desk situations are identified. There is intentionally no fixed final chapter.
 
 ## Project Objectives
 
@@ -57,8 +57,6 @@ There is intentionally **no fixed final chapter**. New realistic scenarios can b
 Screenshots in this portfolio are taken from the author's lab environment or from ServiceNow demonstration data.
 
 Any names, email addresses or other identities visible in ServiceNow demonstration screens are **synthetic/demo data and do not represent real people**.
-
-No Presidio confidential information, customer information, internal ticket numbers, credentials, internal URLs or proprietary procedures will be included.
 
 Real workplace experiences may be converted into generic, anonymised scenarios before being documented in this repository.
 
