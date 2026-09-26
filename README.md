@@ -1,4 +1,10 @@
-# Service Desk Analyst Portfolio
+<p align="center">
+  <img src="logo/techlab365-logo.png" alt="TechLab365" width="300">
+</p>
+
+<p align="center">
+  <img src="logo/service-desk-analyst-title.png" alt="Service Desk Analyst Portfolio">
+</p>
 
 ## Project Overview
 
